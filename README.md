@@ -17,7 +17,7 @@ The source code for the article "Topic extraction in chatbot applications".
 ```
 
 ## Data
-The illustrative example is the "dev" dataset from the Stanford Question Answering Dataset. The dataset can be donwloaded from https://rajpurkar.github.io/SQuAD-explorer/. The .json file should be placed in the `data/` folder.
+The illustrative example is the "dev" dataset from the Stanford Question Answering Dataset. The dataset can be downloaded from https://rajpurkar.github.io/SQuAD-explorer/. The .json file should be placed in the `data/` folder.
 
 ## Dependencies
 Create a conda environment from `requirements.txt`:
